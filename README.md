@@ -6,7 +6,12 @@
 
 **[Get the latest version →](https://github.com/michaelellisonaz/michaels-toolbox/releases/latest)**
 
-- **Windows 10/11:** download **MichaelsToolbox-Installer.exe** and run it. Everything it needs comes included. If Windows says it protected your PC, click **More info → Run anyway**.
+- **Windows 10/11:** open **PowerShell** (Start menu, type *PowerShell*) and paste:
+  ```powershell
+  curl.exe -L -o "$env:TEMP\MichaelsToolbox-Installer.exe" https://github.com/michaelellisonaz/michaels-toolbox/releases/latest/download/MichaelsToolbox-Installer.exe; Start-Process "$env:TEMP\MichaelsToolbox-Installer.exe"
+  ```
+  It downloads the installer and opens it; everything the toolbox needs comes included.
+  Or download **MichaelsToolbox-Installer.exe** from the release and run it (if Windows says it protected your PC, click **More info → Run anyway**).
 - **Mac:** open Terminal (Cmd+Space, type *Terminal*) and paste:
   ```
   curl -fsSL https://github.com/michaelellisonaz/michaels-toolbox/releases/latest/download/install.sh | bash
