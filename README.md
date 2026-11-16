@@ -2,6 +2,8 @@
 
 **A free, all-in-one media app for Windows and Mac.** Download videos and music from the web, edit videos, convert and compress files, and work with pictures, all in one simple window. Everything runs on your own computer, with nothing uploaded anywhere.
 
+![Michael's Toolbox: Link → MP4](screenshots/main-window.png)
+
 ## Download
 
 **[Get the latest version →](https://github.com/michaelellisonaz/michaels-toolbox/releases/latest)**
@@ -24,7 +26,7 @@ Once installed, it **updates itself** (you can turn that off in Settings).
 
 ### Download
 - **Link → MP4:** paste a link and get the video. Works with **YouTube** (up to 4K), **TikTok** (usually without the watermark), **Instagram**, **X/Twitter**, **Odysee** and the **Internet Archive**. Optional max file size (e.g. 10 MB for Discord).
-- **Link → MP3:** get the sound with title, artist and cover art filled in. Also works with **Spotify** and **Apple Music** songs, albums and playlists, and **SoundCloud** tracks and sets.
+- **Link → MP3:** get the sound with title, artist and cover art filled in. Also works with **YouTube Music** (songs, albums, playlists), **Spotify** and **Apple Music** songs, albums and playlists, and **SoundCloud** tracks and sets.
 - Paste several links at once to download them side by side; the site is detected automatically.
 
 ### Edit
@@ -44,6 +46,8 @@ Once installed, it **updates itself** (you can turn that off in Settings).
 - Choose which apps sit at the top of the sidebar; the rest stay one click away.
 - Save videos, audio, images and PDFs to different folders, and name files your way (e.g. *1video, 2video, 3video…*, numbering remembered between sessions).
 - Uses your NVIDIA graphics card (or the Mac's hardware encoder) for faster exports when available.
+
+![Choose your main apps](screenshots/choose-apps.png)
 
 ## Good to know
 - Downloads only work for public content. Please respect creators' rights and each site's terms.
