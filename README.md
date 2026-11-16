@@ -26,7 +26,7 @@ Once installed, it **updates itself** (you can turn that off in Settings).
 
 ### Download
 - **Link → MP4:** paste a link and get the video. Works with **YouTube** (up to 4K), **TikTok** (usually without the watermark), **Instagram**, **X/Twitter**, **Odysee** and the **Internet Archive**. Optional max file size (e.g. 10 MB for Discord).
-- **Link → MP3:** get the sound with title, artist and cover art filled in. Also works with **YouTube Music** (songs, albums, playlists), **Spotify** and **Apple Music** songs, albums and playlists, and **SoundCloud** tracks and sets.
+- **Link → MP3:** get the sound with title, artist and cover art filled in. Also works with **YouTube Music**, **Spotify** and **Apple Music** (songs, albums and playlists) and **SoundCloud** (tracks and sets).
 - Paste several links at once to download them side by side; the site is detected automatically.
 
 ### Edit
