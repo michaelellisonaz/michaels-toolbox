@@ -22,12 +22,14 @@ It updates itself after that. No account needed.
 
 ## Features
 
-- **Download:** videos from YouTube, TikTok, Instagram, X and more; songs and playlists as MP3 (YouTube Music, Spotify, Apple Music, SoundCloud).
-- **Convert:** compress videos to a size you pick; MP4, MOV, WebM, GIF; video to MP3 and back.
+- **Download:** videos from YouTube, TikTok, Instagram, X and more; songs and playlists as MP3 (YouTube Music, Spotify, Apple Music, SoundCloud); full-size profile pictures from a username or link.
+- **Captions:** auto captions, word by word, with 89 fonts and lots of styles. **Speech → Text** turns any recording into text you can copy.
+- **Convert:** compress videos to a size you pick, with TikTok, Reels and Shorts presets; MP4, MOV, WebM; video to GIF; video to MP3 and back.
 - **Edit:** trim, crop, rotate, resize, speed, volume, reverse and glitch. Apply changes in any tool and export once at the end.
 - **Audio:** voice recorder with noise cleanup; effects including 8-bit, pitch, speed, bass & treble, robot, echo and reverb, with live preview.
+- **Images:** remove background; convert HEIC, JPG, PNG, WebP and more; color picker, blur, and images to PDF.
 - **Share:** send files to any phone or computer on your Wi-Fi by scanning a QR code. No app needed.
-- **Images:** color picker, blur, and images to PDF.
+- **Batch mode:** drop in several files and do them all at once. Keyboard shortcuts you can change.
 
 See every update in **Settings → Updates → All updates**.
 
